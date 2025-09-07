@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLinkedin, FaTwitter, FaDownload } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaDownload } from 'react-icons/fa';
 import profile from '../assets/profile.png';
 
 const Hero: React.FC = () => {
